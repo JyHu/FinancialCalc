@@ -4,5 +4,5 @@ layout: blog
 slug: /docs
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+欢迎使用金算子金融计算器，在这里，很高兴能对您有所帮助。
 <br />

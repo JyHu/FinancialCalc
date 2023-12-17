@@ -2,7 +2,7 @@
 layout: post
 title:  "隐私政策"
 date:   2023-12-17 21:48:41 +0800
-# categories: jekyll update
+categories: "隐私政策"
 ---
 
 ## 1. 用户数据收集
