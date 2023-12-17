@@ -10,6 +10,7 @@ profile_picture:
 
 <p>
   Welcome to mysite!
+  update
 </p>
 
 
